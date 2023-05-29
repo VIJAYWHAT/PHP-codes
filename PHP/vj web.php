@@ -87,11 +87,14 @@
       height: auto;
     }
   }
+  
+
+
 </style>
 
 <body>
 
-  <h2>PHP</h2>
+  <h2>Page created in PHP</h2>
 
 
   <header>
@@ -110,12 +113,15 @@
 
 
       
-      <a href="https://github.com/techatpark/gurukulam"><img src="/image/github.png" alt="image"></a>
+      <a href="https://github.com/techatpark/gurukulam"><img src="/img/githubw.png" alt="image" width="90" height="90"></a>
 
-      <a href="https://drive.google.com/drive/my-drive"><img src="/image/drive.png" alt="image"></a>
+      <a href="https://drive.google.com/drive/my-drive"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" alt="image" width="90" height="90"></a>
       
-        <a href="https://www.youtube.com/"><img src="/image/images.jpeg" alt="image"></a>
+      <a href="https://www.youtube.com/"><img src="https://www.freeiconspng.com/uploads/hd-youtube-logo-png-transparent-background-20.png" alt="image" width="100" height="100" ></a>
       
+  
+ 
+
     </nav>
 
     <article>
